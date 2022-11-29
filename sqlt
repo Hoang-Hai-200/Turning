@@ -1,0 +1,1 @@
+exec sqltxadmin.sqlt$a.set_sess_param('connect_identifier', '@db1');
